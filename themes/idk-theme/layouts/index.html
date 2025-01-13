@@ -1,0 +1,12 @@
+{{ define "main" }}
+<main>
+    <h1>{{ .Site.Title }}</h1>
+    <p>Willkommen auf der Startseite von {{ .Site.BaseURL }}</p>
+    {{ range .Pages }}
+        <div>
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Date }}</p>
+        </div>
+    {{ end }}
+</main>
+{{ end }}

@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.container {
+    max-width: 80%;
+    height: 100vh; /* Höhe auf gesamte Bildschirmhöhe setzen */
+    margin: 0 auto;
+    padding: 20px;
+    border-left: 2px solid #cd4949; /* Nur linke Border */
+    border-right: 2px solid #cd4949; /* Nur rechte Border */
+    box-sizing: border-box; /* Padding in die Höhe/Breite mit einberechnen */
+}
+
+.border-container {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    width: 83%;
+    transform: translateX(-50%);
+    height: 100vh;
+    pointer-events: none;
+    box-sizing: border-box;
+    border-left: 2px solid #1e4b6f;
+    border-right: 2px solid #1e4b6f;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #000;
+}
+
+main {
+    text-align: center;
+    margin-bottom: 20px;
+}
