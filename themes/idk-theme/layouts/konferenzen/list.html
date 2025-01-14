@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="content-container">
+    <h1>Konferenzen Übersicht</h1>
+    <ul style="list-style-type: none;">
+        {{ range sort .Pages "Title" "desc"}}
+        <li style="margin-bottom: 2rem;">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            {{ with .Params.Konferenztitel }}
+            <h3>{{ . }}</h3>
+            {{ end }}
+            {{ with .Params.Ort }}
+            <p>Ort: {{ . }}<br>
+            {{ end }}
+            {{ with .Params.Zeitraum }}
+            Zeitraum: {{ . }}</p>
+            {{ end }}
+            {{ $summary := .Summary | safeHTML }}
+            <div class="summary">
+            {{ slicestr $summary 10 }}
+            </div>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

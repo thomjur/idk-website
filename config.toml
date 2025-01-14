@@ -2,3 +2,24 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'idk-theme'
+
+[menu]
+  [[menu.main]]
+    name = "Aktuelles"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Chronik"
+    url = "/chronik/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Konferenzen"
+    url = "/konferenzen/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Impressum"
+    url = "/about/"
+    weight = 4

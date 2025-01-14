@@ -1,12 +1,11 @@
 <div class="logo">
     <div>Interdisziplinäres Kolloquium</div>
-    <div class="circle">IMG</div>
+    <img src="/images/logo-eule.png" alt="IDK-Logo Eule mit Buch." class="logo-image">
 </div>
 <nav>
     <ul>
-        <li><a href="#">Aktuelles</a></li>
-        <li><a href="#">Chronik</a></li>
-        <li><a href="#">Konferenzen</a></li>
-        <li><a href="#">Impressum</a></li>
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
     </ul>
 </nav>

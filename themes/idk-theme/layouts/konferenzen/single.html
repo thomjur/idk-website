@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="content-container">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.Konferenztitel }}
+    <h2>{{ . }}</h2>
+    {{ end }}
+    {{ with .Params.Ort }}
+    <p>Ort: {{ . }}<br>
+    {{ end }}
+    {{ with .Params.Zeitraum }}
+    Zeitraum: {{ . }}</p>
+    {{ end }}
+    {{ .Content }}
+</div>
+{{ end }}
