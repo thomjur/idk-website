@@ -1,9 +1,10 @@
 ---
 title: IDK-Konferenz 2014
-ort: Saarbrücken
+ort: Paris
 zeitraum: 31.10. bis 01.11.2014
 konferenztitel: Didaktik zwischen Lehre und Forschung
 layout: konferenzen
+menutype: Konferenzen
 ---
 
 ## Einführung

@@ -3,9 +3,10 @@
     <img src="/images/logo-eule.png" alt="IDK-Logo Eule mit Buch." class="logo-image">
 </div>
 <nav>
+    {{ $currentPage := . }}
     <ul>
         {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+        <li class="{{ if and (isset $currentPage.Params "menutype") (eq .Name $currentPage.Params.menutype) }} active{{ end }}"><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
     </ul>
 </nav>

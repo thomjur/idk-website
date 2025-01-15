@@ -1,5 +1,6 @@
 ---
 title: Impressum
+menutype: Impressum
 ---
 
 ## Verantwortlich für Inhalt und Gestaltung

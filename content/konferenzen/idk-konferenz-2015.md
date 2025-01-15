@@ -4,6 +4,7 @@ ort: Delft
 zeitraum: 06.11. bis 07.11.2015
 konferenztitel: Wissenschaftsästhetik. Erkenntnisprozesse zwischen Sinnlichkeit und Abstraktion
 layout: konferenzen
+menutype: Konferenzen
 ---
 
 ## Einführung

@@ -20,6 +20,14 @@ body {
     box-sizing: border-box; /* Include padding in height/width calculations */
 }
 
+.section-title-idk {
+    margin-bottom: 1rem;
+}
+
+nav li.active a {
+    color:#A66C64;
+}
+
 .content-container {
     width: 80%;
     margin: 0 auto; /* Center the container horizontally */
