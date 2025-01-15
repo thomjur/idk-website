@@ -1,7 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://thomjur.github.io/idk-website/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'IDK-Website'
 theme = 'idk-theme'
+relativeURLs = true          # Relative URLs verwenden
+canonifyURLs = true          # URLs in absolute Pfade umwandeln
 
 [menu]
   [[menu.main]]
