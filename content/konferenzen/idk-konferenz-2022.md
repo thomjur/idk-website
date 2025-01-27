@@ -2,7 +2,7 @@
 title: IDK-Konferenz 2022
 ort: Koblenz
 zeitraum: 04.11. bis 05.11.2016
-konferenztitel: Neuanfänge und Forschung und Lehre
+konferenztitel: Neuanfänge in Forschung und Lehre
 layout: konferenzen
 menutype: Konferenzen
 ---

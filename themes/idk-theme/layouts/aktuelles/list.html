@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="content-container">
+    <h1 class="section-title-idk">{{ .Title }}</h1>
+    {{ with .Params.Thema }}
+    <h2>{{ . }}</h2>
+    {{ end }}
+    {{ with .Params.Datum }}
+    Veröffentlicht: {{ . }}</p>
+    {{ end }}
+    {{ .Content }}
+</div>
+{{ end }}

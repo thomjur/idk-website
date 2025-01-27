@@ -6,7 +6,7 @@ theme = 'idk-theme'
 [menu]
   [[menu.main]]
     name = "Aktuelles"
-    url = "/"
+    url = "/aktuelles/"
     weight = 1
 
   [[menu.main]]
