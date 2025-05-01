@@ -14,3 +14,7 @@ Die 9. Jahrestagung des IDK wird aus der Sicht unterschiedlicher Disziplinen und
 ## Konferenzflyer
 
 [Herunterladen](/downloads/idk2021konferenz.pdf)
+
+## Konferenzbericht
+
+[Herunterladen](https://www.hsozkult.de/conferencereport/id/fdkn-128396)

@@ -35,3 +35,7 @@ angereicherten) Reduzierung komplizierter wissenschaftlicher Sachverhalte gefrag
 ## Konferenzflyer
 
 [Herunterladen](/downloads/idk2018konferenz.pdf)
+
+## Konferenzbericht
+[HSozKult](https://www.hsozkult.de/conferencereport/id/tagungsberichte-8302?title=komplexitaet-und-reduktion-akademische-forschung-zwischen-wissenschaft-und-public-science-7-jahrestagung-des-interdisziplinaeren-kolloquiums&recno=2&q=IDK&sort=newestPublished&fq=&total=7)
+

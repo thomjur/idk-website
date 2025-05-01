@@ -15,3 +15,7 @@ Thema der diesjährigen Jahreskonferenz des InterDisziplinären Kolloquiums (IDK
 ## Konferenzflyer
 
 [Herunterladen](/downloads/idk2019konferenz.pdf)
+
+## Konferenzbericht
+
+[HSozKult](https://www.hsozkult.de/conferencereport/id/tagungsberichte-8703?title=dissens-und-widerstand-abweichendes-denken-in-den-wissenschaften&recno=1&q=IDK&sort=newestPublished&fq=&total=7+)

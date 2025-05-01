@@ -38,3 +38,6 @@ themenbezogenen Exponaten.
 ## Konferenzflyer
 
 [Herunterladen](/downloads/idk2015konferenz.pdf)
+
+## Konferenzbericht
+[HSozKult](https://www.hsozkult.de/conferencereport/id/tagungsberichte-6827)
