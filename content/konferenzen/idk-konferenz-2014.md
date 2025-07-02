@@ -5,6 +5,7 @@ zeitraum: 31.10. bis 01.11.2014
 konferenztitel: Didaktik zwischen Lehre und Forschung
 layout: konferenzen
 menutype: Konferenzen
+tagungsbericht: https://www.hsozkult.de/conferencereport/id/fdkn-123955
 ---
 
 ## Einführung
@@ -38,4 +39,3 @@ Didaktik abzeichnen.
 
 ## Konferenzbericht
 [HSozKult](https://www.hsozkult.de/conferencereport/id/fdkn-123955)
-

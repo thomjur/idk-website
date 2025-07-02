@@ -29,6 +29,11 @@ body {
   margin-bottom: 1rem;
 }
 
+.tagungsbericht-link {
+  margin-top: 1rem;
+}
+
+
 nav li.active a {
   color: #A66C64;
 }

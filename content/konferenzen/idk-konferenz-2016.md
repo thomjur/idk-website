@@ -5,6 +5,7 @@ zeitraum: 04.11. bis 05.11.2016
 konferenztitel: Wissenstransfer zwischen akademischer Forschung und öffentlichem Raum
 layout: konferenzen
 menutype: Konferenzen
+tagungsbericht: https://www.hsozkult.de/conferencereport/id/tagungsberichte-7323
 ---
 
 ## Einführung
@@ -39,4 +40,3 @@ beschäftigen.
 
 ## Konferenzbericht
 [HSozKult](https://www.hsozkult.de/conferencereport/id/tagungsberichte-7323)
-

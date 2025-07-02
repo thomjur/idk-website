@@ -5,6 +5,7 @@ zeitraum: 02.11. bis 03.11.2018
 konferenztitel: Komplexität und Reduktion. Akademische Forschung zwischen Wissenschaft und public science
 layout: konferenzen
 menutype: Konferenzen
+tagungsbericht: https://www.hsozkult.de/conferencereport/id/tagungsberichte-8302?title=komplexitaet-und-reduktion-akademische-forschung-zwischen-wissenschaft-und-public-science-7-jahrestagung-des-interdisziplinaeren-kolloquiums&recno=2&q=IDK&sort=newestPublished&fq=&total=7
 ---
 
 ## Einführung

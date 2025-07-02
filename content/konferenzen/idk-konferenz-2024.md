@@ -5,6 +5,7 @@ zeitraum: 08.11. bis 09.11.2024
 konferenztitel: Ökonomien in Forschung und Lehre
 layout: konferenzen
 menutype: Konferenzen
+tagungsbericht: https://www.hsozkult.de/conferencereport/id/fdkn-155415
 ---
 
 ## Einführung

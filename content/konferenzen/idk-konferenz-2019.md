@@ -5,6 +5,7 @@ zeitraum: 01.11. bis 02.11.2019
 konferenztitel: Dissens und Widerstand. Abweichendes Denken in den Wissenschaften
 layout: konferenzen
 menutype: Konferenzen
+tagungsbericht: https://www.hsozkult.de/conferencereport/id/tagungsberichte-8703?title=dissens-und-widerstand-abweichendes-denken-in-den-wissenschaften&recno=1&q=IDK&sort=newestPublished&fq=&total=7+
 ---
 
 ## Einführung

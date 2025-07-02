@@ -5,6 +5,7 @@ zeitraum: 04.11. bis 05.11.2016
 konferenztitel: Neuanfänge in Forschung und Lehre
 layout: konferenzen
 menutype: Konferenzen
+tagungsbericht: https://www.hsozkult.de/conferencereport/id/fdkn-135742
 ---
 
 ## Einführung

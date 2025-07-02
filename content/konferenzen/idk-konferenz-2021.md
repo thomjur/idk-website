@@ -5,6 +5,7 @@ zeitraum: 05.11. bis 06.11.2021
 konferenztitel: Kanonisierung und Institutionalisierung von Wissen
 layout: konferenzen
 menutype: Konferenzen
+tagungsbericht: https://www.hsozkult.de/conferencereport/id/fdkn-128396
 ---
 
 ## Einführung

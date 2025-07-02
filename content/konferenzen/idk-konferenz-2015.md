@@ -5,6 +5,7 @@ zeitraum: 06.11. bis 07.11.2015
 konferenztitel: Wissenschaftsästhetik. Erkenntnisprozesse zwischen Sinnlichkeit und Abstraktion
 layout: konferenzen
 menutype: Konferenzen
+tagungsbericht: https://www.hsozkult.de/conferencereport/id/tagungsberichte-6827
 ---
 
 ## Einführung

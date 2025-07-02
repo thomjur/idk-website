@@ -5,6 +5,7 @@ zeitraum: 03.11. bis 04.11.2023
 konferenztitel: Ethiken des Forschens und Lehrens
 layout: konferenzen
 menutype: Konferenzen
+tagungsbericht: https://www.hsozkult.de/conferencereport/id/fdkn-142922
 ---
 
 ## Einführung
