@@ -1,5 +1,6 @@
 ---
-layout: page
+title: Datenschutz
+layout: single
 ---
 
 ## Verantwortlicher
