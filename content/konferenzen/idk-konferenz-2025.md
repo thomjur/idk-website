@@ -15,4 +15,4 @@ Die 13. Jahrestagung des InterDisziplinären Kolloquiums war als Fortsetzung und
 [HSozKult](https://www.hsozkult.de/searching/id/fdkn-161391)
 
 ## Konferenzflyer
--
+
